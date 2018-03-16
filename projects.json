@@ -1,0 +1,53 @@
+{
+  "projects": [
+    {
+      "id": 3,
+      "proj_name": "e-commerce platform",
+      "due_date": "03/29/19",
+      "budget": 10567,
+      "client_id": 2347
+    },
+    {
+      "id": 7,
+      "proj_name": "inventory alert system",
+      "due_date": "10/30/18",
+      "budget": 13789,
+      "client_id": 4399
+    },
+    {
+      "id": 13,
+      "proj_name": "dog dating app",
+      "due_date": "12/25/18",
+      "budget": 56,
+      "client_id": 890
+    },
+    {
+      "id": 9,
+      "proj_name": "robot overlord",
+      "due_date": "yesterday",
+      "budget": 57578389302990,
+      "client_id": 1
+    },
+    {
+      "id": 15,
+      "proj_name": "IOT butter churn",
+      "due_date": "05/29/18",
+      "budget": 5678399,
+      "client_id": 789
+    },
+    {
+      "id": 78,
+      "proj_name": "GeoCities Website",
+      "due_date": "03/29/19",
+      "budget": 10567,
+      "client_id": 2347
+    },
+    {
+      "id": 89,
+      "proj_name": "inside the eggshell egg scrambler",
+      "due_date": "07/19/18",
+      "budget": 1467,
+      "client_id": 4445
+    }
+  ]
+}
